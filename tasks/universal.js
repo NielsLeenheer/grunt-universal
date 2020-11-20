@@ -19,6 +19,7 @@ module.exports = function(grunt) {
                 outAppPath: path.resolve(this.data.outAppPath),
             });
         } catch (e) {
+            console.log(e);
             done(false);
         }
 
