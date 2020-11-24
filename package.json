@@ -1,7 +1,7 @@
 {
   "name": "grunt-universal",
   "description": "Grunt plugin for making universal macOS binaries using @electron/universal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/NielsLeenheer/grunt-universal",
   "author": {
     "name": "Niels Leenheer",
@@ -34,7 +34,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "@electron/universal": "^1.0.1"
+    "@electron/universal": "^1.0.4"
   },
   "devDependencies": {
     "eslint": "^4.11.0",
